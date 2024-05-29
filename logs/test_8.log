@@ -1,0 +1,9 @@
+INFO ===> Test test_8 started at 2024-05-28 13:13:19.091242
+INFO Browser chrome started
+INFO main_page initialized
+INFO main_page: Clicked on 'droptablet'
+INFO main_page initialized
+INFO main_page: Clicked on 'samsung'
+INFO main_page initialized
+INFO main_page: Clicked on '('css selector', '#button-cart')'
+INFO ===> Test test_8 finished at 2024-05-28 13:13:26.063649

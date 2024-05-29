@@ -1,0 +1,17 @@
+INFO ===> Test test_10 started at 2024-05-28 13:13:41.115784
+INFO Browser chrome started
+INFO main_page initialized
+INFO main_page: Clicked on 'macbook'
+INFO product_page initialized
+INFO product_page: Clicked on 'review'
+INFO product_page initialized
+INFO product_page: Clicked on 'input_name'
+INFO product_page: Cleared and wrote 'name' to 'input_name'
+INFO product_page initialized
+INFO product_page: Clicked on 'input_review'
+INFO product_page: Cleared and wrote 'review review review review review review' to 'input_review'
+INFO product_page initialized
+INFO product_page: Clicked on 'mark'
+INFO product_page initialized
+INFO product_page: Clicked on 'button_review'
+INFO ===> Test test_10 finished at 2024-05-28 13:13:47.815410

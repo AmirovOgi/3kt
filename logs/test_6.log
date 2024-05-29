@@ -1,0 +1,7 @@
+INFO ===> Test test_6 started at 2024-05-28 13:12:58.539457
+INFO Browser chrome started
+INFO main_page initialized
+INFO main_page: Clicked on 'macbook'
+INFO main_page initialized
+INFO main_page: Clicked on '('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')'
+INFO ===> Test test_6 finished at 2024-05-28 13:13:04.814667
